@@ -1,1 +1,1 @@
-https://github.com/benjaminkondraki/YMJwab.wiki.github
+https://github.com/benjaminkondraki/YMJwab.wiki.git
